@@ -1,0 +1,16 @@
+{
+    "elements": {
+        "form:textarea": {}
+    },
+    "attributes": {
+        "th:action": {
+            "context": "form"
+        },
+        "tr:text": {
+            "context": "p"
+        },
+        "th:attr": {
+            "context": "div"
+        }
+    }
+}
